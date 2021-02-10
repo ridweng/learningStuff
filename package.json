@@ -1,0 +1,14 @@
+{
+  "name": "bot",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "node .": "node run app.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
